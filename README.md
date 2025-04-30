@@ -5,7 +5,7 @@ Mapa desarrollado en leaf implementado con react y next.js
 # Mapa Interactivo con Next.js
 
 Aplicación web que permite buscar ubicaciones y mostrarlas en un mapa interactivo con funcionalidad bidireccional.
-# Estructura
+## Estructura
 
 netx.js
 mapa-interactivo/
