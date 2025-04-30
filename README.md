@@ -34,3 +34,4 @@ Aplicación web que permite buscar ubicaciones y mostrarlas en un mapa interacti
 git clone https://github.com/tu-usuario/mapa-interactivo.git
 cd mapa-interactivo
 npm install
+npm run dev
